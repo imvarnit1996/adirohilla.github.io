@@ -7,7 +7,8 @@ body {
 }
 
 a {
-  color: #a7a1a1;
+  /* color: #a7a1a1; */
+  color:#0a0dbe;
 }
 
 a:hover {
@@ -815,7 +816,12 @@ section {
 }
 
 #long {
-  height: 300px;
+  object-fit: fill;
+  height: 400px;
+}
+#long2 {
+  object-fit: fill;
+  height: 400px;
 }
 /* 
 .certifications .certifications-item h3 {
